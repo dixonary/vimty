@@ -1,5 +1,7 @@
 # Vimty: A vim typewriter
 
+[Here's a video of it in action](https://dixonary.co.uk/s/typewriter-vim.mp4)
+
 ## Dependencies
 
 * i3wm (to move the window from shell)
