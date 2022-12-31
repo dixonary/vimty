@@ -1,6 +1,6 @@
 # Vimty: A vim typewriter
 
-[Here's a video of it in action](https://dixonary.co.uk:3000/s/typewriter-vim.mp4)
+[Here's a video of it in action](https://old.dixonary.co.uk/s/typewriter-vim.mp4)
 
 ## Dependencies
 
